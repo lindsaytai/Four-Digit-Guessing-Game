@@ -1,10 +1,10 @@
 # Four-Digit-Guessing-Game
 Try to guess a 4-digit number that the program has randomly selected. 
 
-This is a fun little program that allows you to guess a 4-digit number. It tells you when you are getting closer and if you guess correctly, you win. The 4 digits are randomly selected each time you run the program. Here is a sample run:
+This is a fun little program that allows you to guess a 4-digit number. It tells you when you are getting closer and if you guess correctly, you win. The 4 digits are randomly selected each time you run the program. Here is a sample run.
 
 Hello! I am thinking of a passcode with four numbers.
-* = number is in correct location.
+\* = number is in correct location.
 0 = number is in passcode but not in correct location.
 Type "help" for a list of possible commands.
 Make sure your guess is four digits, with no repeating numbers!
